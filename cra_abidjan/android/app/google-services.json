@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "483147519028",
+    "firebase_url": "https://cra-abidjan-default-rtdb.firebaseio.com",
+    "project_id": "cra-abidjan",
+    "storage_bucket": "cra-abidjan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483147519028:android:03af211148f9e69c956661",
+        "android_client_info": {
+          "package_name": "com.arbitre.cra_abidjan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483147519028-8644qofi7fg3kagaium9h0vqqbk8s17v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvnMdf-svq7q1DKhW8gVF44uMDzYRThXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483147519028-8644qofi7fg3kagaium9h0vqqbk8s17v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483147519028:android:c2f87c2953d155e8956661",
+        "android_client_info": {
+          "package_name": "com.weni.cra_abidjan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483147519028-8644qofi7fg3kagaium9h0vqqbk8s17v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvnMdf-svq7q1DKhW8gVF44uMDzYRThXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483147519028-8644qofi7fg3kagaium9h0vqqbk8s17v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
